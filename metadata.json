@@ -1,0 +1,8 @@
+{
+  "name": "BORA — Award-Winning Creative Portfolio & Interactive 3D Digital Practice",
+  "description": "An immersive, editorial, and cinematic creative portfolio for BORA featuring interactive 3D sculptures, liquid-chrome typography, bespoke project showcases, and seamless storytelling.",
+  "requestFrame": "true",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
